@@ -15,6 +15,11 @@
 
 
 # Implementation
-- Installing and configuring OpenWisp in the Ubuntu machine by reading the document.
+- Installing necessary packets and configuring OpenWrt by OpenWisp in the Ubuntu machine.
 - Config OpenWrt's network interface through OpenWisp and start the access point.
 - On Client device(s), connect to the OpenWrt through wireless network
+
+# References
+- https://github.com/openwisp/openwisp-config
+- https://github.com/openwisp/openwisp-controller
+- https://openwisp.io/docs/dev/index.html
