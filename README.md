@@ -7,6 +7,7 @@
 |  20521963 |  Nguyễn Hùng Thịnh |
 
 # Environment and network diagram
+- A router: In this project we use PfSense virtual machine and configure it as a router of our LAN.
 - An Ubuntu 22.04 machine that had installed OpenWisp's package (openwisp-controller).
 - A OpenWrt (virtual) machine that had installed OpenWisp's package (openwisp-config) and is also considered as an Access Point (AP) node.
 - Client device(s) that connect to Access Point node. (such as smartphone, computer, etc).
